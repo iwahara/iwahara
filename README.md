@@ -2,3 +2,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iwahara)
 
 powered by https://github.com/anuraghazra/github-readme-stats
+
+[スキルや職務経歴書はこちら](https://github.com/iwahara/cv)
